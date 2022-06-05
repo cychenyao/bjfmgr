@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T04:19:02.677Z" agent="5.0 (Macintosh)" etag="urzyEKUgeIh3QIzDfB8s" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T04:33:35.411Z" agent="5.0 (Macintosh)" etag="GYpW4TOJzSpRkDGv0ooS" version="17.0.0" type="github">
   <diagram id="LA-G7ACcjqo9bNHBce6I" name="Page-1">
-    <mxGraphModel dx="1186" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,24 @@
             <mxPoint x="430" y="190" as="sourcePoint" />
             <mxPoint x="520" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VjFNWFfta5MLANDNMVuJ-38" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="116" y="763" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjFNWFfta5MLANDNMVuJ-39" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="759" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VjFNWFfta5MLANDNMVuJ-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="218" y="798.5" as="sourcePoint" />
+            <mxPoint x="297" y="798.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjFNWFfta5MLANDNMVuJ-41" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjFNWFfta5MLANDNMVuJ-42" value="Association" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="224" y="805" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
